@@ -1,17 +1,45 @@
-## Hi there 👋
+ Welcome to **HabibasCreations**
 
+🎯 **.NET Full Stack Developer** | 💻 **Tech Enthusiast** | 🎨 **UI/UX & Web Design Explorer**
 
-## 👨‍💻 .NET Developer | Full-Stack Enthusiast
+---
 
-🚀 Diving deep into ASP.NET, Angular, and React to build high-performance, scalable web solutions.
+🌱 Currently Exploring:
+- **ASP.NET Core**, **Angular**, and **React** for building scalable, modern web apps  
+- **UI/UX design principles** to bridge the gap between design & development  
+- Cross-platform development and real-life problem-solving through software
 
-📚 I enjoy transforming complex ideas into user-friendly applications and love solving real-world problems with clean code.
+---
 
-🌍 Blending creativity with code — I turn design inspirations into functional .NET-based web platforms.
+💡 About Me
+I'm a dedicated and passionate .NET developer with a strong foundation in web technologies and a growing interest in full-stack development. I enjoy building clean, functional, and visually appealing applications. With experience in various front-end and back-end tools, I aim to craft solutions that matter.
 
-🎯 Always eager to learn new tech stacks and stay updated with industry trends.
+---
 
-🤝 I believe in collaboration, open-source, and continuous growth through community learning.
+ 🧠 Skills Overview
+
+| 🧑‍💻 Languages   | 🧩 Frameworks & Runtimes | 🎨 Front-end       | 🗄️ Database       | 🛠️ Tools & Platforms               | 🌐 Web Technologies        |
+|------------------|--------------------------|--------------------|-------------------|------------------------------------|----------------------------|
+| C#, JavaScript   | ASP.NET MVC/Core         | Angular, React     | MS SQL Server     | Visual Studio, VS Code             | JSON, XML, AJAX            |
+| HTML5, CSS3, SQL | Entity Framework, ADO.NET| Bootstrap, Tailwind| Crystal Reports   | Git & GitHub, Postman              | WebSockets, Socket.IO      |
+|                  | Node.js, Express.js      | jQuery, EJS        |                   | Figma, Photoshop, Illustrator      |                            |
+
+---
+
+🔧 Additional Skills
+- OOP, Repository Pattern, Factory Pattern  
+- LINQ, ADO.NET, RESTful API  
+- Report Generation (Crystal Reports)  
+- Authentication & Authorization  
+- Session & State Management
+
+---
+ 🚀 Vision
+I aspire to become a **versatile full-stack developer**, combining backend efficiency with front-end aesthetics to create impactful software. I'm always growing, learning, and pushing the boundaries of what I can create.
+
+---
+ 📌 Tech Stack Tags
+`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `JavaScript` `React` `Angular` `ASP.NET Core` `C#` `MS SQL` `Node.js` `Figma` `Photoshop` `Git` `Visual Studio` `Postman` `Crystal Reports`
 
 
 
