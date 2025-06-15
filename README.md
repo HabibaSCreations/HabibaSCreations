@@ -81,6 +81,39 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
 <p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge&logo=ejs&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> </p>
 ---
 
+## 🏅 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=HabibaSCreations&theme=onedark&margin-w=15)
+---
+## 📊 My Developer Metrics
+
+![Metrics](https://metrics.lecoq.io/HabibaSCreations?template=classic&languages=1&isocalendar=1&repositories=1&stars=1&followup=1&activity=1&config.timezone=Asia%2FDhaka)
+---
+
+## 🔝 Most Used Languages (Based on My Projects)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-72.97%25-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TSQL-22.81%25-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-2.48%25-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CSS-1.74%25-purple?style=flat-square"/>
+</p>
+---
+---
+
+## 📈 My GitHub Progress Snapshot
+
+![Metrics](https://metrics.lecoq.io/HabibaSCreations?template=classic&languages=1&isocalendar=1&repositories=1&stars=1&activity=1)
+
+### 🏆 Skills Representation
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-72.97%25-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TSQL-22.81%25-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-2.48%25-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CSS-1.74%25-purple?style=flat-square"/>
+</p>
+---
+
 **Thanks for visiting my profile! 😊 Let's build something great together. 🚀**
 
 
