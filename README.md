@@ -48,7 +48,7 @@ I'm a dedicated and enthusiastic .NET developer, currently learning to build cro
 - ✅ RESTful API Development  
 - ✅ Report Generation with Crystal Reports  
 - ✅ Authentication & Authorization, Session Management  
-- ✅ UI/UX Prototyping with Figma, Photoshop, Illustrator  
+  
 
 ---
 
