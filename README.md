@@ -1,45 +1,84 @@
- Welcome to **HabibasCreations**
+# 👋 Hi, I'm Habiba Anjum
 
-🎯 **.NET Full Stack Developer** | 💻 **Tech Enthusiast** | 🎨 **UI/UX & Web Design Explorer**
-
----
-
-🌱 Currently Exploring:
-- **ASP.NET Core**, **Angular**, and **React** for building scalable, modern web apps  
-- **UI/UX design principles** to bridge the gap between design & development  
-- Cross-platform development and real-life problem-solving through software
+🎓 **Trainee at ISDB-BISEW IT Scholarship Programme**  
+💻 **Aspiring Full Stack .NET Developer**  
+🎨 Passionate about building clean, user-friendly web applications  
+🌱 Currently exploring **ASP.NET Core**, **Angular**, **React**, and modern software design patterns
 
 ---
 
-💡 About Me
-I'm a dedicated and passionate .NET developer with a strong foundation in web technologies and a growing interest in full-stack development. I enjoy building clean, functional, and visually appealing applications. With experience in various front-end and back-end tools, I aim to craft solutions that matter.
+## 🧠 About Me
+
+I'm a dedicated and enthusiastic .NET developer, currently learning to build cross-platform, real-world solutions using **ASP.NET Core**, **Angular**, and **React**. I love solving problems through code, and I'm always eager to grow my skills and help others in the tech community.
 
 ---
 
- 🧠 Skills Overview
+## 🔧 Skills Overview
 
-| 🧑‍💻 Languages   | 🧩 Frameworks & Runtimes | 🎨 Front-end       | 🗄️ Database       | 🛠️ Tools & Platforms               | 🌐 Web Technologies        |
-|------------------|--------------------------|--------------------|-------------------|------------------------------------|----------------------------|
-| C#, JavaScript   | ASP.NET MVC/Core         | Angular, React     | MS SQL Server     | Visual Studio, VS Code             | JSON, XML, AJAX            |
-| HTML5, CSS3, SQL | Entity Framework, ADO.NET| Bootstrap, Tailwind| Crystal Reports   | Git & GitHub, Postman              | WebSockets, Socket.IO      |
-|                  | Node.js, Express.js      | jQuery, EJS        |                   | Figma, Photoshop, Illustrator      |                            |
+| 💻 Languages | 🧩 Frameworks & Runtimes | 🎨 Front-end | 🗄️ Database | ⚙️ Tools & Platforms | 🌐 Web Tech |
+|-------------|--------------------------|--------------|--------------|----------------------|-------------|
+| C#, SQL, JavaScript, HTML5, CSS3 | ASP.NET Core, ASP.NET MVC, Entity Framework, ADO.NET, Node.js, Express.js | Angular, React, jQuery, Bootstrap, Tailwind CSS, EJS | SQL Server, LINQ, Stored Procedures | Visual Studio, VS Code, Git, GitHub, Postman, Netlify | JSON, XML, AJAX, WebSockets, Socket.IO |
 
 ---
 
-🔧 Additional Skills
-- OOP, Repository Pattern, Factory Pattern  
-- LINQ, ADO.NET, RESTful API  
-- Report Generation (Crystal Reports)  
-- Authentication & Authorization  
-- Session & State Management
+## 🖼️ Tools & Technologies I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+</p>
 
 ---
- 🚀 Vision
-I aspire to become a **versatile full-stack developer**, combining backend efficiency with front-end aesthetics to create impactful software. I'm always growing, learning, and pushing the boundaries of what I can create.
+
+## 🚀 Other Skills
+
+- ✅ OOP, Repository Pattern, Factory Pattern  
+- ✅ RESTful API Development  
+- ✅ Report Generation with Crystal Reports  
+- ✅ Authentication & Authorization, Session Management  
+- ✅ UI/UX Prototyping with Figma, Photoshop, Illustrator  
 
 ---
- 📌 Tech Stack Tags
-`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `JavaScript` `React` `Angular` `ASP.NET Core` `C#` `MS SQL` `Node.js` `Figma` `Photoshop` `Git` `Visual Studio` `Postman` `Crystal Reports`
+
+## 🎯 My Vision
+
+> I aim to become a skilled full-stack developer who creates impactful software that improves lives, enhances user experiences, and solves real-life problems. I believe in continuous learning, clean code, and smart design.
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:habibaanjum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/habibaanjum"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HabibaSCreations&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaSCreations&layout=compact&theme=react)
+
+---
+
+**Thanks for visiting my profile! 😊 Let's build something great together. 🚀**
 
 
 
