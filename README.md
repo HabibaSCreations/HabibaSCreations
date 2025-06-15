@@ -52,16 +52,16 @@ I'm a dedicated and enthusiastic .NET developer, currently learning to build cro
 
 ---
 
-## 🎯 My Vision
+## 🎯 Career Goal
 
-> I aim to become a skilled full-stack developer who creates impactful software that improves lives, enhances user experiences, and solves real-life problems. I believe in continuous learning, clean code, and smart design.
+As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to become a **proficient full stack .NET Developer** who builds scalable, efficient, and user-friendly applications.
 
 ---
 
-## 📬 Connect with Me
+## 📬 Let’s Connect
 
 <p align="left">
-  <a href="mailto:habibaanjum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:fahimbinferoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/habibaanjum"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
   <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
@@ -71,9 +71,10 @@ I'm a dedicated and enthusiastic .NET developer, currently learning to build cro
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HabibaSCreations&show_icons=true&theme=react)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HabibaSCreations&theme=react)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaSCreations&layout=compact&theme=react)
 
 ---
