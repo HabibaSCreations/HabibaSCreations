@@ -86,14 +86,7 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
 ![](https://github-profile-trophy.vercel.app/?username=HabibaSCreations&theme=onedark&margin-w=15)
 
 
-## 🔝 Most Used Languages (Based on My Projects)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-72.97%25-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TSQL-22.81%25-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-2.48%25-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CSS-1.74%25-purple?style=flat-square"/>
-</p>
 
 ---
 
