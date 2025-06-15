@@ -84,11 +84,7 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
 ## 🏅 GitHub Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=HabibaSCreations&theme=onedark&margin-w=15)
----
-## 📊 My Developer Metrics
 
-![Metrics](https://metrics.lecoq.io/HabibaSCreations?template=classic&languages=1&isocalendar=1&repositories=1&stars=1&followup=1&activity=1&config.timezone=Asia%2FDhaka)
----
 
 ## 🔝 Most Used Languages (Based on My Projects)
 
@@ -99,7 +95,7 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
   <img src="https://img.shields.io/badge/CSS-1.74%25-purple?style=flat-square"/>
 </p>
 ---
----
+
 
 ## 📈 My GitHub Progress Snapshot
 
