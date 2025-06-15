@@ -77,6 +77,8 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HabibaSCreations&theme=react)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaSCreations&layout=compact&theme=react)
 
+🏆 Top Languages (Based on Skills)
+<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge&logo=ejs&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> </p>
 ---
 
 **Thanks for visiting my profile! 😊 Let's build something great together. 🚀**
