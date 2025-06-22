@@ -5,6 +5,8 @@
 🎨 Passionate about building clean, user-friendly web applications  
 🌱 Currently exploring **ASP.NET Core**, **Angular**, **React**, and modern software design patterns
 
+1597867319789.jpeg
+
 ---
 
 ## 🧠 About Me
