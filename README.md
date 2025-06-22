@@ -6,7 +6,6 @@
 🌱 Currently exploring **ASP.NET Core**, **Angular**, **React**, and modern software design patterns
 
 ---
-![](https://raw.githubusercontent.com/HabibaSCreations/Images/refs/heads/main/Habiba.jpg)
 
 ## 🧠 About Me
 
